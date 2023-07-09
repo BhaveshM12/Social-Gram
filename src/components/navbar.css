@@ -1,0 +1,10 @@
+@media screen and (max-width: 600px){
+    #image-section{
+        width: 0%;
+        height: auto;
+      };
+    }
+#image-section{
+    cursor: pointer;
+}
+
